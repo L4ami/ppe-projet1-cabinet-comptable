@@ -280,4 +280,4 @@ Installation réalisée avec **winget**, le gestionnaire de paquets intégré à
 
 ---
 
-*Fiche établie le 14.09.2026 par Paul Giocanti — PPE IT Essentials, module CFC 187, classe E1B, Geneva Institute of Technology.*
+*Fiche établie le 14.09.2026 par P.G — PPE IT Essentials, module CFC 187, classe E1B, Geneva Institute of Technology.*
