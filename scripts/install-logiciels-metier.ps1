@@ -2,7 +2,7 @@
 ================================================================================
  Projet 1 - Poste de travail pour un cabinet comptable
  Installation des logiciels metier - PC-COMPTA-PG
- Paul Giocanti (PG) - PPE IT Essentials 187 - Classe E1B
+ - PPE IT Essentials 187 - Classe E1B
 
  UTILISATION
    1. Ouvrir PowerShell EN TANT QU'ADMINISTRATEUR (compte adm.pg)
