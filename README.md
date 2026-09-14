@@ -2,7 +2,7 @@
 
 **Module CFC 187 — Mettre en service un poste de travail ICT avec le système d'exploitation**
 Geneva Institute of Technology · Classe E1B · Septembre 2026
-**Étudiant :** Paul Giocanti
+**Étudiant :** P.G
 
 ---
 
