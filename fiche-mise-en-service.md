@@ -2,7 +2,7 @@
 
 **Projet 1 — PPE IT Essentials (module CFC 187)**
 **Classe :** E1B · **Établissement :** Geneva Institute of Technology
-**Technicien :** Paul Giocanti · **Date d'intervention :** 14.09.2026
+**Technicien :** P.G · **Date d'intervention :** 14.09.2026
 
 ---
 
