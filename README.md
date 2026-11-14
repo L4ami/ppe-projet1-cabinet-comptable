@@ -9,7 +9,7 @@
 
 > **En une phrase :** j'ai livré, prêt à l'emploi, le poste Windows 11 d'une nouvelle collaboratrice d'un cabinet comptable genevois de 3 personnes : système, comptes, réseau, logiciels métier, sécurité de base, et une vraie imprimante réseau partagée par un serveur Linux.
 
-Ce dépôt est écrit pour être compris **même sans rien connaître** à l'administration de postes : tous les mots techniques sont expliqués.
+Ce dépôt est écrit pour être compris **même sans rien connaître** à l'administration de postes : tous les mots techniques sont expliqués.<br>
 👉 Le livrable complet, étape par étape et avec les captures, est dans [`fiche-mise-en-service.md`](fiche-mise-en-service.md).
 
 > **Projet 1/5** du PPE IT Essentials, module CFC 187 *« Mettre en service un poste de travail ICT avec le système d'exploitation »*, classe E1B, Geneva Institute of Technology (GIT), septembre 2026.
