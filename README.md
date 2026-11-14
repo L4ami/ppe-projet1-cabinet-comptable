@@ -57,8 +57,6 @@ Groupe de travail : `CABINET` · Réseau : `192.168.190.0/24`
 .
 ├── README.md                        ← ce fichier
 ├── fiche-mise-en-service.md         ← le livrable principal
-├── consignes/
-│   └── projet-01-cabinet-comptable.md   ← énoncé fourni par le formateur
 ├── scripts/
 │   └── install-logiciels-metier.ps1     ← installation automatisée des logiciels
 └── captures/                        ← 22 captures d'écran, numérotées chronologiquement
